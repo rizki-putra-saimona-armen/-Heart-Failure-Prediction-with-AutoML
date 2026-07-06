@@ -142,5 +142,3 @@ Proyek ini menggunakan lisensi **MIT** — bebas digunakan, dimodifikasi, dan di
 Kontribusi, saran, dan diskusi sangat terbuka! Silakan buat *issue* atau *pull request* — misalnya menambahkan evaluasi lanjutan (confusion matrix, ROC curve) untuk model XGBoost final, atau membandingkan hasil AutoML dengan model yang dituning manual.
 
 ---
-
-<p align="center">Made with ❤️ using jcopml AutoML</p>
